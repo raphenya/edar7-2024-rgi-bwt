@@ -1,0 +1,17 @@
+**********************************************
+Stats for Artifacts: 
+**********************************************
+
+2045206 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+26966 + 0 mapped (1.32% : N/A)
+2045206 + 0 paired in sequencing
+1022603 + 0 read1
+1022603 + 0 read2
+24184 + 0 properly paired (1.18% : N/A)
+25645 + 0 with itself and mate mapped
+1321 + 0 singletons (0.06% : N/A)
+25645 + 0 with mate mapped to a different chr
+25644 + 0 with mate mapped to a different chr (mapQ>=5)
