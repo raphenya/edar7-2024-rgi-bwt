@@ -9,7 +9,7 @@ Resistance Gene Identifier (RGI) - Prediction of antimicrobial resistance genes 
 
 # Author(s) Information:
 
-Amogelang R. Raphenya, Brian Alcock & Andrew G. McArthur
+Amogelang R. Raphenya, Brian Alcock, Dirk Hackenberger & Andrew G. McArthur
 
 # Abstract:
 
